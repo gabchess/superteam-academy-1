@@ -13,10 +13,12 @@
     "runTests": "Executar testes",
     "pass": "Aprovado",
     "fail": "Reprovado",
+    "pending": "Pendente",
     "xp": "XP",
     "level": "Nível",
     "streak": "Sequência",
-    "lessons": "Aulas"
+    "lessons": "Aulas",
+    "module": "Módulo"
   },
   "header": {
     "courses": "Cursos",
@@ -65,7 +67,9 @@
     "challengeTitle": "Desafio de código",
     "starterCodeLabel": "Código inicial",
     "testCasesLabel": "Casos de teste",
-    "xpAwarded": "XP concedido"
+    "xpAwarded": "XP concedido",
+    "introLine1": "Esta aula apresenta padrões de derivação de contas, composição de transações e design seguro de instruções para apps Solana em produção.",
+    "introLine2": "Complete o desafio à direita para validar seu entendimento e ganhar XP extra pelo progresso."
   },
   "dashboard": {
     "title": "Painel",

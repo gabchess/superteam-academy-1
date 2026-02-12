@@ -13,10 +13,12 @@
     "runTests": "Ejecutar pruebas",
     "pass": "Aprobado",
     "fail": "Fallado",
+    "pending": "Pendiente",
     "xp": "XP",
     "level": "Nivel",
     "streak": "Racha",
-    "lessons": "Lecciones"
+    "lessons": "Lecciones",
+    "module": "Módulo"
   },
   "header": {
     "courses": "Cursos",
@@ -65,7 +67,9 @@
     "challengeTitle": "Desafío de código",
     "starterCodeLabel": "Código inicial",
     "testCasesLabel": "Casos de prueba",
-    "xpAwarded": "XP otorgado"
+    "xpAwarded": "XP otorgado",
+    "introLine1": "Esta lección introduce patrones de derivación de cuentas, composición de transacciones y diseño seguro de instrucciones para apps Solana en producción.",
+    "introLine2": "Completa el desafío a la derecha para validar tu comprensión y ganar XP extra por tu progreso."
   },
   "dashboard": {
     "title": "Panel",

@@ -13,10 +13,12 @@
     "runTests": "Run tests",
     "pass": "Pass",
     "fail": "Fail",
+    "pending": "Pending",
     "xp": "XP",
     "level": "Level",
     "streak": "Streak",
-    "lessons": "Lessons"
+    "lessons": "Lessons",
+    "module": "Module"
   },
   "header": {
     "courses": "Courses",
@@ -65,7 +67,9 @@
     "challengeTitle": "Code challenge",
     "starterCodeLabel": "Starter code",
     "testCasesLabel": "Test cases",
-    "xpAwarded": "XP awarded"
+    "xpAwarded": "XP awarded",
+    "introLine1": "This lesson introduces account derivation patterns, transaction composition, and secure instruction design for production Solana apps.",
+    "introLine2": "Complete the challenge on the right to validate your understanding and earn bonus XP for your progress."
   },
   "dashboard": {
     "title": "Dashboard",
